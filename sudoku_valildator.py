@@ -1,14 +1,3 @@
-# sudoku_validator.py
-
-"""
-Sudoku Validator With Custom Zones
-
-This script validates a standard 9x9 Sudoku board and also supports custom 9-cell zones.
-Each custom zone must also contain unique digits 1–9 without any repetition.
-
-Author: Manthri Akanksha
-Date: 2025
-"""
 
 from typing import List, Tuple
 
