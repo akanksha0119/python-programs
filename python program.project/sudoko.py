@@ -1,14 +1,4 @@
-"""
-Sudoku Validator With Custom Zones
-----------------------------------
-This script validates a 9x9 Sudoku board with the following rules:
-1. Each row must contain digits 1–9 without repetition.
-2. Each column must contain digits 1–9 without repetition.
-3. Each 3x3 standard subgrid must contain digits 1–9 without repetition.
-4. Each custom zone (9 cells specified manually) must contain digits 1–9 without repetition.
 
-Empty cells are represented with '.'
-"""
 
 from typing import List, Tuple
 
